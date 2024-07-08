@@ -43,7 +43,7 @@ I've deployed LLM's across several Massive Online Courses, and worked specifical
 
 ### Staff Engineer & Teacher 🍉
 #### [Riverdale Country School](https://en.wikipedia.org/wiki/Riverdale_Country_School) | 2022 - 2024
-- ❌
+- ❌ Left due to limits on curriculum and hostile work environment for transgendered persons.
   
 ### Engineer 🦄
 #### [Unqork](https://news.crunchbase.com/unicorn-company-list/) | Apr 2021 - 2022
@@ -52,8 +52,8 @@ I've deployed LLM's across several Massive Online Courses, and worked specifical
 
 ### Product Dev & Technical Trainer 📚
 ####  [Unqork](https://news.crunchbase.com/unicorn-company-list/)  | Aug 2020 - Jan 2021
-- 🚀 🌒
-- 🎓 
+- 🚀 Built & Taught bespoke programming tools
+- 🎓 SME on Stack Overflow
 - 🥇 Promoted to a new role.
 
 ### JavaScript Lead Instructor 🌟
@@ -64,8 +64,8 @@ I've deployed LLM's across several Massive Online Courses, and worked specifical
 ### Product Developer & Technology Educator 🚀
 #### [Decoded](https://decoded.com/) | Aug 2019 - Mar 2020
 - Technology Consultant to C-level Fortune 500
-- 🤖 
-- 😷 
+- 🤖 Built, deployed, and taught bespoke tools
+- 😷 Terminated due to Covid-19
 
 ### IB Computer Science Teacher 📚
 #### [Dwight School](https://en.wikipedia.org/wiki/Dwight_School) | Aug 2017 - Jul 2019
