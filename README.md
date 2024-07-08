@@ -25,8 +25,6 @@ I've deployed LLM's across several Massive Online Courses, and worked specifical
     - [Complex Neural Network](https://github.com/LilaShiba/neural_collective_network)
     - [Tricorder for ADS](https://github.com/LilaShiba/third_wave)
     - Researcher 🧑‍🏫 [Design & Intelligence Lab](https://dilab.gatech.edu/)
-    - ❌ Left to read books & find my cat 🦊🏹🌳[🐈‍⬛](https://en.wikipedia.org/wiki/Pangur_B%C3%A1n)
-    - For Luna, I'll carry you in my heart 💖
       
 ### Masters of Arts, Cultural Sustainability
 - #### Goucher College | 2010 - 2013
