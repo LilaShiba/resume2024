@@ -41,8 +41,8 @@ I've deployed LLM's across several Massive Online Courses, and worked specifical
 
 ### Staff Engineer & Teacher 🍉
 #### [Riverdale Country School](https://en.wikipedia.org/wiki/Riverdale_Country_School) | 2022 - 2024
-- ❌ Left due to limits on curriculum and hostile work environment for transgendered persons.
-  
+- ❌ Left due to limits on curriculum
+
 ### Engineer 🦄
 #### [Unqork](https://news.crunchbase.com/unicorn-company-list/) | Apr 2021 - 2022
 - 🛠️ Built & rode wave until Unicorn Status 
