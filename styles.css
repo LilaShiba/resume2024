@@ -3,6 +3,15 @@ body {
     color: white;
 }
 
-h1, h2, h3, h4, h5, h6, strong {
-    color: white; /* Ensure headings and strong labels are white */
+h1, h2, h3, h4, h5, h6 {
+    color: white; /* Ensure headings are white */
+}
+
+strong, b {
+    background: -webkit-linear-gradient(white, #e0e0e0); /* Gradient of white for WebKit browsers */
+    background: -moz-linear-gradient(white, #e0e0e0); /* Gradient of white for Mozilla browsers */
+    background: -o-linear-gradient(white, #e0e0e0); /* Gradient of white for Opera browsers */
+    background: linear-gradient(white, #e0e0e0); /* Standard gradient */
+    -webkit-background-clip: text; /* Clip background to text for WebKit browsers */
+    -webkit-text-fill-color: transparent; /* Make text transparent for WebKit browsers */
 }
