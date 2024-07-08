@@ -3,7 +3,6 @@ body {
     color: white;
 }
 
-h1, h2, h3, h4, h5, h6, **{
-    color: white; /* Ensure headings are white */
+h1, h2, h3, h4, h5, h6, strong {
+    color: white; /* Ensure headings and strong labels are white */
 }
-
