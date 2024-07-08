@@ -3,12 +3,11 @@
 # Lila Josey James
 
 <div style="display: flex; align-items: center;">
-  <img src="tbd" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
   <div>
     <strong>Location:</strong> <a href="https://www.tripadvisor.com/Attraction_Review-g60827-d2433040-Reviews-Cobble_Hill-Brooklyn_New_York.html">Brooklyn</a><br>
     <strong>Email:</strong> lilaresearch@gmail.com<br>
     <strong>Portfolio:</strong> <a href="https://github.com/LilaShiba">Resume & Portfolio</a><br>
-    <strong>Interests:</strong> Blade Runner<br>
+  
   </div>
 </div>
 
