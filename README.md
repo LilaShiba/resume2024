@@ -1,78 +1,66 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
-# 🌟 Lila Josey James
-**🌍:** [Brooklyn](https://www.tripadvisor.com/Attraction_Review-g60827-d2433040-Reviews-Cobble_Hill-Brooklyn_New_York.html)
-**🚀:** lilaresearch@gmail.com  
-**🎨:** [Resume & Portfolio](https://github.com/LilaShiba)
-**❤️💙:** Blade runner 
+# Lila Josey James
 
+<div style="display: flex; align-items: center;">
+  <img src="tbd" alt="Profile Picture" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 20px;">
+  <div>
+    <strong>Location:</strong> <a href="https://www.tripadvisor.com/Attraction_Review-g60827-d2433040-Reviews-Cobble_Hill-Brooklyn_New_York.html">Brooklyn</a><br>
+    <strong>Email:</strong> lilaresearch@gmail.com<br>
+    <strong>Portfolio:</strong> <a href="https://github.com/LilaShiba">Resume & Portfolio</a><br>
+    <strong>Interests:</strong> Blade Runner<br>
+  </div>
+</div>
 
+## About Me
 
-#### About Me
-Greetings! 👋 I'm Lila Josey James. You'll often find me cherishing moments with my [Shiba Inu companion](https://www.mondou.com/en-CA/blogs/advice/dog/the-shiba-inu-japans-national-treasure-ad11.html) 🐕, exploring [urban landscapes](https://en.wikipedia.org/wiki/Dead_Horse_Bay), or immersing myself in enriching [literature](https://www.amazon.com/Too-Like-Lightning-Terra-Ignota/dp/0765378019). As a [resilient](https://www.cancer.gov/publications/dictionaries/cancer-terms/def/intensive-chemotherapy) cancer survivor 🎗️ and advocate within the [trans community](https://www.plannedparenthood.org/learn/gender-identity/transgender) 🌈, I bring a profound commitment to fostering diversity and inclusivity in all facets of my endeav...
+Greetings, I am Lila Josey James, a dedicated and innovative software engineer with a profound commitment to technology and inclusivity. My diverse background as a resilient cancer survivor and trans community advocate enriches my perspective and drives my passion for creating impactful solutions. My interests include spending quality time with my Shiba Inu, exploring urban landscapes, and immersing myself in thought-provoking literature. My current research delves into Quantum Information Theory, and I have successfully deployed Large Language Models (LLMs) across several Massive Online Courses, where I specialized as an information pipeline engineer.
 
-I've deployed LLM's across several Massive Online Courses, and worked specifically as the information pipeline engineer for said AI. It took in all formats of data. My research now focuses on Quantum Information Theory.
+## [Current Research](https://lilashiba.github.io/Quantum_Collapse_Neuron/)
 
-#### [🛸 My Current Research](https://lilashiba.github.io/Quantum_Collapse_Neuron/)
+## Education
 
+### Master of Science (MS) in Computer Science
+**Georgia Institute of Technology | 2020 - 2024**  
+Relevant Projects:
+- [LLM Collective Agent](https://github.com/LilaShiba/SND_Agents)
+- [Complex Neural Network](https://github.com/LilaShiba/neural_collective_network)
+- [Tricorder for ADS](https://github.com/LilaShiba/third_wave)
+- Researcher at [Design & Intelligence Lab](https://dilab.gatech.edu/)
 
-## 🎓 Education
+### Master of Arts in Cultural Sustainability
+**Goucher College | 2010 - 2013**  
+Relevant Research:
+- Conducted a two-year grant-funded solo multi-sited ethnography in Northern Africa, EU, and Republic of Ireland
+- Studied identity formation & capital fetishes
 
-### Masters of Science - MS, Computer Science
-- #### Georgia Institute of Technology | 2020 - 2024
-  - Relevant Work:
-    - [LLM Collective Agent](https://github.com/LilaShiba/SND_Agents)
-    - [Complex Neural Network](https://github.com/LilaShiba/neural_collective_network)
-    - [Tricorder for ADS](https://github.com/LilaShiba/third_wave)
-    - Researcher 🧑‍🏫 [Design & Intelligence Lab](https://dilab.gatech.edu/)
-      
-### Masters of Arts, Cultural Sustainability
-- #### Goucher College | 2010 - 2013
-  - Relevant Work:
-    - Two year grant-funded solo multi-sited ethnography
-    - Northern Africa, E.U., Republic of Ireland
-    - Research on Identity formation & Capital Fetishes
-    - ❌ Left to teach 📗📙📖
-    - Thank you Rory [🌱](https://en.wikipedia.org/wiki/The_Man_Who_Planted_Trees)
-
---- 
-
-## 💼 Professional Experience
+## Professional Experience
 
 ### Staff Engineer & Teacher 🍉
-#### [Riverdale Country School](https://en.wikipedia.org/wiki/Riverdale_Country_School) | 2022 - 2024
-- ❌ Left due to limits on curriculum
+**[Riverdale Country School](https://en.wikipedia.org/wiki/Riverdale_Country_School) | 2022 - 2024**  
+Developed and taught innovative curriculum until curriculum constraints led to my departure.
 
 ### Engineer 🦄
-#### [Unqork](https://news.crunchbase.com/unicorn-company-list/) | Apr 2021 - 2022
-- 🛠️ Built & rode wave until Unicorn Status 
-- 🎗️ Departure due to Blood Cancer diagnosis.
+**[Unqork](https://news.crunchbase.com/unicorn-company-list/) | Apr 2021 - 2022**  
+Engineered key solutions that propelled the company to Unicorn status. Departure due to a health diagnosis.
 
-### Product Dev & Technical Trainer 📚
-####  [Unqork](https://news.crunchbase.com/unicorn-company-list/)  | Aug 2020 - Jan 2021
-- 🚀 Built & Taught bespoke programming tools
-- 🎓 SME on Stack Overflow
-- 🥇 Promoted to a new role.
+### Product Developer & Technical Trainer 📚
+**[Unqork](https://news.crunchbase.com/unicorn-company-list/) | Aug 2020 - Jan 2021**  
+Created and instructed bespoke programming tools. Recognized as a Subject Matter Expert on Stack Overflow. Promoted to a higher role.
 
 ### JavaScript Lead Instructor 🌟
-#### [General Assembly](https://generalassemb.ly/?&utm_source=google&utm_medium=paid-search-bra&utm_campaign=TS:TX:BRA:NYC:BR:GeneralAssembly&gad_source=1&gclid=Cj0KCQjw6uWyBhD1ARIsAIMcADpf_EDeoV0tKLwi29WdMmqmgr92wbsihcuFc9diIyZClVKb5GnVIYYaAu-qEALw_wcB&gclsrc=aw.ds)| Mar 2020 - Aug 2020
-- [MERN Stack](https://generalassemb.ly/students/courses?formatShortCourses=true&utm_source=google&utm_medium=paid-search-bra&utm_campaign=TS:TX:BRA:NYC:BR:GeneralAssembly&gad_source=1&gclid=Cj0KCQjw6uWyBhD1ARIsAIMcADpdZOVr4-5O_ckuSYjM2E8G5VPmwr8RF3Z99ZZRumFIzqM4yd_t5F8aAmqOEALw_wcB&gclsrc=aw.ds)
-- 😷
+**[General Assembly](https://generalassemb.ly) | Mar 2020 - Aug 2020**  
+Led instruction in the MERN Stack, fostering student success and engagement.
 
 ### Product Developer & Technology Educator 🚀
-#### [Decoded](https://decoded.com/) | Aug 2019 - Mar 2020
-- Technology Consultant to C-level Fortune 500
-- 🤖 Built, deployed, and taught bespoke tools
-- 😷 Terminated due to Covid-19
+**[Decoded](https://decoded.com/) | Aug 2019 - Mar 2020**  
+Consulted for C-level executives at Fortune 500 companies. Built and deployed custom tools. Position ended due to Covid-19.
 
 ### IB Computer Science Teacher 📚
-#### [Dwight School](https://en.wikipedia.org/wiki/Dwight_School) | Aug 2017 - Jul 2019
-- 🔝 Achieved a 300% increase in class size within a year.
+**[Dwight School](https://en.wikipedia.org/wiki/Dwight_School) | Aug 2017 - Jul 2019**  
+Achieved a 300% increase in class size within a year through engaging and effective teaching methods.
 
 ### Secondary English Teacher 📚
-#### [Teach For America](https://www.teachforamerica.org/educational-equity-quiz?utm_content=mktg_recruitment_fy20&gad_source=1&gclid=Cj0KCQjw6uWyBhD1ARIsAIMcADrPGkbVmK3QR2Tu7_ztPwdqeNllUyjIVkorqyojDhcRQ-mEfjgOflUaAtv8EALw_wcB) | Jun 2013 - Jun 2015
-- 👩‍🏫 Learned English in underserved communities in the [Mississippi Delta](https://www.hwh.ar.gov/).
-- [🔍🎗️](https://github.com/LilaShiba/resume2024/blob/main/Screenshot%202024-05-19%20at%208.06.08%20AM.png)
+**[Teach For America](https://www.teachforamerica.org) | Jun 2013 - Jun 2015**  
+Educated students in underserved communities in the [Mississippi Delta](https://www.hwh.ar.gov/), fostering a passion for learning.
 
-
-[💖](https://github.com/LilaShiba/resume2024/blob/main/Screenshot%202024-05-17%20at%2012.07.51%20PM.png)
