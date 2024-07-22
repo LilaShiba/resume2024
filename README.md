@@ -6,7 +6,18 @@
 
 ## About Me
 
-Greetings, I am Lila Josey James, a dedicated and innovative software engineer with a profound commitment to  creative and fun technology. My interests include spending quality time with my Shiba Inu, exploring urban landscapes, and immersing myself in thought-provoking literature. My current research delves into Quantum Information Theory, and I have successfully deployed Large Language Models (LLMs) across several Massive Online Courses, where I specialized as an information pipeline engineer.
+Greetings,
+
+I am Lila Josey James, a dedicated and innovative software engineer with a strong commitment to developing creative and engaging technology solutions. My career transition from teaching to tech has equipped me with unique problem-solving skills and a passion for continuous learning, making me an ideal candidate for your team.
+
+In my recent roles, I have focused on Human-Computer Interactions and information pipelines, which have allowed me to develop a deep understanding of cutting-edge technologies. I have successfully deployed Large Language Models (LLMs) across several Massive Online Courses in Georgia Tech's Design and Intelligence Lab, partnered with IBM Watson. These experiences have honed my ability to tackle complex challenges and deliver impactful solutions.
+
+I am particularly drawn to environments that are dynamic, challenging, and offer continuous learning opportunities. My background in education has instilled in me a strong foundation in curriculum development and student engagement, which I now leverage to create innovative technological solutions. My technical skills, combined with my ability to communicate complex ideas clearly and effectively, make me a valuable asset to any team.
+
+I am excited about the possibility of contributing to your organization and bringing my unique perspective and expertise to your projects. Thank you for considering my application. I look forward to the opportunity to discuss how my background, skills, and enthusiasm can align with your needs.
+
+Sincerely,  
+Lila Josey James
 
 
 ## Education
