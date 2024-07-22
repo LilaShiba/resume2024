@@ -1,21 +1,13 @@
-<link rel="stylesheet" type="text/css" href="styles.css">
-
 # Lila Josey James
 
-<div style="display: flex; align-items: center;">
-  <div>
-    <strong>Location:</strong> <a href="https://www.tripadvisor.com/Attraction_Review-g60827-d2433040-Reviews-Cobble_Hill-Brooklyn_New_York.html">Brooklyn</a><br>
-    <strong>Email:</strong> lilaresearch@gmail.com<br>
-    <strong>Portfolio:</strong> <a href="https://github.com/LilaShiba">Resume & Portfolio</a><br>
-  
-  </div>
-</div>
+**Location:** [Brooklyn](https://www.tripadvisor.com/Attraction_Review-g60827-d2433040-Reviews-Cobble_Hill-Brooklyn_New_York.html)  
+**Email:** lilaresearch@gmail.com  
+**Portfolio:** [Resume & Portfolio](https://github.com/LilaShiba)
 
 ## About Me
 
-Greetings, I am Lila Josey James, a dedicated and innovative software engineer with a profound commitment to technology and inclusivity. My diverse background as a resilient cancer survivor and trans community advocate enriches my perspective and drives my passion for creating impactful solutions. My interests include spending quality time with my Shiba Inu, exploring urban landscapes, and immersing myself in thought-provoking literature. My current research delves into Quantum Information Theory, and I have successfully deployed Large Language Models (LLMs) across several Massive Online Courses, where I specialized as an information pipeline engineer.
+Greetings, I am Lila Josey James, a dedicated and innovative software engineer with a profound commitment to  creative and fun technology. My interests include spending quality time with my Shiba Inu, exploring urban landscapes, and immersing myself in thought-provoking literature. My current research delves into Quantum Information Theory, and I have successfully deployed Large Language Models (LLMs) across several Massive Online Courses, where I specialized as an information pipeline engineer.
 
-## [Current Research](https://lilashiba.github.io/Quantum_Collapse_Neuron/)
 
 ## Education
 
@@ -35,31 +27,30 @@ Relevant Research:
 
 ## Professional Experience
 
-### Staff Engineer & Teacher 🍉
+### Staff Engineer & Teacher
 **[Riverdale Country School](https://en.wikipedia.org/wiki/Riverdale_Country_School) | 2022 - 2024**  
 Developed and taught innovative curriculum until curriculum constraints led to my departure.
 
-### Engineer 🦄
+### Engineer
 **[Unqork](https://news.crunchbase.com/unicorn-company-list/) | Apr 2021 - 2022**  
-Engineered key solutions that propelled the company to Unicorn status. Departure due to a health diagnosis.
+Engineered key solutions that propelled the company to Unicorn status.
 
-### Product Developer & Technical Trainer 📚
+### Product Developer & Technical Trainer
 **[Unqork](https://news.crunchbase.com/unicorn-company-list/) | Aug 2020 - Jan 2021**  
 Created and instructed bespoke programming tools. Recognized as a Subject Matter Expert on Stack Overflow. Promoted to a higher role.
 
-### JavaScript Lead Instructor 🌟
+### JavaScript Lead Instructor
 **[General Assembly](https://generalassemb.ly) | Mar 2020 - Aug 2020**  
 Led instruction in the MERN Stack, fostering student success and engagement.
 
-### Product Developer & Technology Educator 🚀
+### Product Manager & Technology Consultant 
 **[Decoded](https://decoded.com/) | Aug 2019 - Mar 2020**  
-Consulted for C-level executives at Fortune 500 companies. Built and deployed custom tools. Position ended due to Covid-19.
+Consulted for C-level executives at Fortune 500 companies. Built and deployed custom tools.
 
-### IB Computer Science Teacher 📚
+### IB Computer Science Teacher
 **[Dwight School](https://en.wikipedia.org/wiki/Dwight_School) | Aug 2017 - Jul 2019**  
 Achieved a 300% increase in class size within a year through engaging and effective teaching methods.
 
-### Secondary English Teacher 📚
+### Secondary English Teacher
 **[Teach For America](https://www.teachforamerica.org) | Jun 2013 - Jun 2015**  
 Educated students in underserved communities in the [Mississippi Delta](https://www.hwh.ar.gov/), fostering a passion for learning.
-
