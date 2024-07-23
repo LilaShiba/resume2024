@@ -26,7 +26,7 @@ Lila Josey James
 **Georgia Institute of Technology | 2020 - 2024**  
 - Researcher at [Design & Intelligence Lab](https://dilab.gatech.edu/)
 Relevant Work:
-- [Jill Watson]([https://github.com/LilaShiba/SND_Agents](https://dilab.gatech.edu/jill-watson/)
+- [Jill Watson](https://dilab.gatech.edu/jill-watson/)
 
 ### Master of Arts in Cultural Sustainability
 **Goucher College | 2010 - 2013**  
