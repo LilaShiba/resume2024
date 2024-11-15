@@ -8,7 +8,7 @@
 
 Greetings,
 
-I am Lila Josey James. I've had the pleasure of consulting in São Paulo for MasterCard, building state-of-the-art solutions with IBM and Georgia Tech in the United States, and building software with EU engineers—remarkable experiences that have shaped my career. Whether leading first-graders or C-level executives in fintech, I've found one common thread: success depends more on how a group functions together than on the totality of the skills each individual possesses.
+I am Lila Josey James. I've had the pleasure of consulting in São Paulo for MasterCard, building state-of-the-art solutions with IBM and Georgia Tech in the United States, and building software with EU engineers. Whether leading first-graders or C-level executives in fintech, I've found one common thread: success depends more on how a group functions together than on the totality of the skills each individual possesses.
 
 
 Sincerely,
