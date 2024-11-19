@@ -10,7 +10,7 @@
 
 Greetings,  
 
-I am Lila Josey James. I've had the pleasure of consulting in São Paulo for MasterCard, building state-of-the-art solutions with IBM and Georgia Tech in the United States, and collaborating with EU engineers on software development. Whether leading first-graders or C-level executives in fintech, I've found one common thread: success depends more on how a group functions together than on the totality of the skills each individual possesses.  
+I am Lila Josey James, a transgender technologist. I've had the pleasure of working all over the world with a variety of clients. This includes consulting in São Paulo, Bunoes Aires, and Canada for MasterCard, building state-of-the-art NLP/LLM solutions with IBM and Georgia Tech in the United States, and collaborating with EU engineers on software development for the fin-tech sector. Whether leading first-graders or C-level executives, I've found one common thread: success depends more on how a group functions together than on the totality of the skills each individual possesses.  
 
 ---
 
