@@ -8,25 +8,28 @@
 
 <body class="cats">
 
-<header>
-<section class="intro-section">
-  <div class="container">
-    <h1 class="intro-heading">Lila James <span class="emoji">✨👩‍💻🌙</span></h1>
-    <p class="intro-text">
-      Hey there! I'm a <strong>technologist</strong>, <strong>educator</strong>, and <strong>artist</strong> with over 15 years of international experience. 
-      I’ve taught on six continents, and my work bridges the worlds of science and art. 
-      <br>
-      <center><a href="https://github.com/LilaShiba"
-           style="background: linear-gradient(135deg, #ff69b4, #8a2be2); color: white; padding: 0.75em 1.5em; border-radius: 12px; text-decoration: none; font-weight: bold; font-size: 1.1em; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); transition: transform 0.2s ease-in-out;"
-           aria-label="Learn about Lila">
-          ✨ Portfolio ✨
-        </a>
-        Or view
-       <a href="https://LilaShiba.github.io/resume2024/Lila%20James%20_%20Summer%202025-3.pdf")>📄 my Resume</a></center>
-    </p>
-  </div> 
-  </section>
-</header>
+<p class="intro-text">
+  Hey there! I'm a <strong>technologist</strong>, <strong>educator</strong>, and <strong>artist</strong> with over 15 years of international experience.
+  I’ve taught on six continents, and my work bridges the worlds of science and art.
+</p>
+
+<div class="portfolio-links">
+  <a href="https://github.com/LilaShiba"
+     class="portfolio-button"
+     target="_blank"
+     rel="noopener"
+     aria-label="View Lila's Portfolio">
+    ✨ Portfolio ✨
+  </a>
+  <a href="https://LilaShiba.github.io/resume2024/Lila%20James%20_%20Summer%202025-3.pdf"
+     class="portfolio-button"
+     target="_blank"
+     rel="noopener"
+     aria-label="View Lila's Resume PDF">
+    📄 My Resume
+  </a>
+</div>
+
 
 <section class="step">
   <div class="container">
